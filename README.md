@@ -270,4 +270,11 @@ If you encounter any issues:
 
 ---
 
+## 👨‍💻 Creator
+
+This project is designed and developed by **Shubh Shukla** 🚀  
+3rd Year B.Tech CSE Student | Full-Stack Developer | Passionate about building scalable web apps  
+
+---
+
 **Built with ❤️ using React, Node.js, and Stripe**
